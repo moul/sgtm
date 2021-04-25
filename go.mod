@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/Bearer/bearer-go v1.2.1
-	github.com/Masterminds/sprig/v3 v3.1.0
+	github.com/Masterminds/sprig/v3 v3.2.2
 	github.com/alta/protopatch v0.0.0-20201016184603-76d4a1d79afd
 	github.com/bwmarrin/discordgo v0.22.0
 	github.com/bwmarrin/snowflake v0.3.0
@@ -29,7 +29,6 @@ require (
 	github.com/hako/durafmt v0.0.0-20200710122514-c0fb7b4da026
 	github.com/huandu/xstrings v1.3.2 // indirect
 	github.com/ikeikeikeike/go-sitemap-generator/v2 v2.0.2
-	github.com/imdario/mergo v0.3.11 // indirect
 	github.com/karrick/godirwalk v1.16.1 // indirect
 	github.com/kyokomi/emoji/v2 v2.2.5
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible // indirect
