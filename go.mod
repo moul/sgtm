@@ -18,7 +18,7 @@ require (
 	github.com/go-chi/chi v4.1.2+incompatible
 	github.com/go-chi/jsonp v0.0.0-20170809160916-b971022286e2
 	github.com/go-chi/render v1.0.1
-	github.com/gobuffalo/packr/v2 v2.8.0
+	github.com/gobuffalo/packr/v2 v2.8.1
 	github.com/gogo/gateway v1.1.0
 	github.com/golang/protobuf v1.4.3
 	github.com/gorilla/websocket v1.4.2 // indirect
