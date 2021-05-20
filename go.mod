@@ -20,7 +20,7 @@ require (
 	github.com/go-chi/render v1.0.1
 	github.com/gobuffalo/packr/v2 v2.8.0
 	github.com/gogo/gateway v1.1.0
-	github.com/golang/protobuf v1.4.3
+	github.com/golang/protobuf v1.5.0
 	github.com/gorilla/websocket v1.4.2 // indirect
 	github.com/gosimple/slug v1.9.0
 	github.com/grokify/html-strip-tags-go v0.0.0-20200923094847-079d207a09f1
@@ -54,7 +54,7 @@ require (
 	google.golang.org/grpc v1.38.0
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.0.1
 	google.golang.org/grpc/examples v0.0.0-20200626030347-424195440776 // indirect
-	google.golang.org/protobuf v1.25.0
+	google.golang.org/protobuf v1.26.0
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776 // indirect
 	gorm.io/driver/sqlite v1.1.3
