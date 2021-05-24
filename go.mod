@@ -12,7 +12,7 @@ require (
 	github.com/clbanning/mxj v1.8.4 // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/dustin/go-humanize v1.0.0
-	github.com/getsentry/sentry-go v0.7.0
+	github.com/getsentry/sentry-go v0.11.0
 	github.com/githubnemo/CompileDaemon v1.3.0
 	github.com/go-chi/chi v4.1.2+incompatible
 	github.com/go-chi/jsonp v0.0.0-20170809160916-b971022286e2
