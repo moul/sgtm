@@ -32,7 +32,7 @@ require (
 	github.com/karrick/godirwalk v1.16.1 // indirect
 	github.com/kyokomi/emoji/v2 v2.2.5
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible // indirect
-	github.com/microcosm-cc/bluemonday v1.0.10
+	github.com/microcosm-cc/bluemonday v1.0.13
 	github.com/oklog/run v1.1.1-0.20200508094559-c7096881717e
 	github.com/peterbourgon/ff/v3 v3.0.0
 	github.com/rs/cors v1.7.0
