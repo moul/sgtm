@@ -35,7 +35,7 @@ require (
 	github.com/microcosm-cc/bluemonday v1.0.15
 	github.com/oklog/run v1.1.1-0.20200508094559-c7096881717e
 	github.com/peterbourgon/ff/v3 v3.0.0
-	github.com/rs/cors v1.7.0
+	github.com/rs/cors v1.8.0
 	github.com/russross/blackfriday/v2 v2.1.0
 	github.com/sirupsen/logrus v1.7.0 // indirect
 	github.com/soheilhy/cmux v0.1.5
